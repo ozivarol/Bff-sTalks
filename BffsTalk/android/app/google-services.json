@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59794699134",
+    "firebase_url": "https://bffstalk-b561b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bffstalk-b561b",
+    "storage_bucket": "bffstalk-b561b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59794699134:android:e8c38192aa1ddc9d23792f",
+        "android_client_info": {
+          "package_name": "com.bffstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59794699134-vaf4eugg6nh9pgo4udvrnk8lonvsadqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRjCCZDB3OsqB7pHr9JddStBcrHNGqFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59794699134-vaf4eugg6nh9pgo4udvrnk8lonvsadqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
